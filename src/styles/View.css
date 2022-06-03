@@ -1,0 +1,30 @@
+.view-container {
+    padding: 15px;
+    font-family: system-ui;
+}
+
+.view-subcontainer {
+    display: flex;
+}
+
+.view-button {
+    background-color: darkgoldenrod;
+    border: 2px solid rgba(27, 31, 35, .15);
+    border-radius: 6px;
+    color: black;
+    cursor: pointer;
+    font-family: system-ui;
+    font-weight: 500;
+    line-height: 20px;
+    text-align: center;
+    padding: 3px 7px;
+    margin: 0px 5px 10px 5px;
+}
+
+.view-contents {
+    padding-left: 20px;
+}
+
+.view-content {
+    padding: 3px;
+}
